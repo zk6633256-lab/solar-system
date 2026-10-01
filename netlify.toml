@@ -1,0 +1,4 @@
+[build]
+  publish = "."
+
+# Static site — no build step required.
